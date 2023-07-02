@@ -28,4 +28,4 @@ let checkDead = setInterval(function () {
 		// block.style.display = "none";
 		alert("game over");
 	}
-}, 10);
+}, 5);
