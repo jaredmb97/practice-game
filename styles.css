@@ -44,6 +44,8 @@
 	top: 130px;
 	left: 480px;
 	animation: block 1s infinite linear;
+	padding: 0;
+	margin: 0;
 }
 
 @keyframes block {
